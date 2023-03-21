@@ -1,1 +1,3 @@
 added another file. This file is suposed to be only in second branch at first. 
+
+adding some content before merging
